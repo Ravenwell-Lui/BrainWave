@@ -3,9 +3,7 @@
 ## Introduction
 
 **BrainWave** is a macOS deep learning object detection tool designed to help developers and researchers quickly load and run deep learning models for object detection tasks. The app supports only **`.mlmodelc`** format CoreML models and provides an intuitive graphical user interface where users can easily select a model and perform inference.
-
 ![BrainWave Interface](Light_Interface.png)
-
 ## Features
 
 ### 1. Manually Select Object Detection Models
@@ -31,14 +29,12 @@ BrainWave provides an intuitive, user-friendly graphical interface that does not
 ### System Requirements
 
 - macOS 10.15 or later
-- 
-- Required Python packages: CoreML (for loading `.mlmodelc` files)
 
 ### Installation Steps
 
 1. Clone the project to your local machine:
    ```bash
-   git clone https://github.com/username/BrainWave.git
+   git clone https://github.com/Ravenwell-Lui/BrainWave.git
    ```
 
 2. Navigate to the project directory:
@@ -46,12 +42,7 @@ BrainWave provides an intuitive, user-friendly graphical interface that does not
    cd BrainWave
    ```
 
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Launch the macOS client:
+3. Launch the macOS client:
    The macOS client is already bundled with the project, and you can launch it by running:
    ```bash
    open BrainWave.app
