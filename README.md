@@ -4,7 +4,7 @@
 
 **BrainWave** is a macOS deep learning object detection tool designed to help developers and researchers quickly load and run deep learning models for object detection tasks. The app supports only **`.mlmodelc`** format CoreML models and provides an intuitive graphical user interface where users can easily select a model and perform inference.
 
-![BrainWave Interface](Light Interface.png)
+![BrainWave Interface](Light_Interface.png)
 
 ## Features
 
