@@ -9,6 +9,7 @@
 ### 1. Manually Select Object Detection Models
 
 Users can manually select **`.mlmodelc`** format pre-trained object detection models via the simple interface. The app supports loading locally stored CoreML model files, allowing users to choose different detection models to perform tasks.
+(You can download the YOLOv8m sample model at the release)
 
 ### 2. Manually Execute Inference
 
